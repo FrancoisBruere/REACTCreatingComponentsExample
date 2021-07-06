@@ -1,5 +1,5 @@
-import Heading from "./components/Heading";
-import List from "./components/List";
+import Heading from "./Heading";
+import List from "./List";
 import React from "react";
 
 function App() {
